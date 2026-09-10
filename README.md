@@ -12,6 +12,7 @@ They are shared here because the notes were more useful than I expected, and kee
 |------|----------------|------------|
 | [Building Reliable AI Applications](BUILDING_RELIABLE_AI_APPLICATIONS.md) | The ideas and operating model behind AI evaluation. Traces, failure taxonomies, datasets, evaluators, model-based judges, agents, regression gates, production loops, team structure, and a ninety-day rollout plan. | You want to understand why AI systems become reliable and how to organize the work. |
 | [AI Engineering Evals in Practice](AI_ENGINEERING_EVALS_IN_PRACTICE.md) | The hands-on companion. Turn a product requirement into an eval contract, build a reproducible harness, add deterministic checks, calibrate an AI judge, evaluate retrieval and tool-using agents, gate releases in CI, and connect offline evals to production. Examples in Python with plain files. | You already know why evals matter and need to build them. |
+| [Internal Knowledge Bases in Practice](INTERNAL_KNOWLEDGE_BASES_IN_PRACTICE.md) | A hands-on guide from structured Markdown to a production, permission-aware MCP service. Covers content models, ingestion, compilation, provenance, freshness, hybrid and graph retrieval, authorization, context engineering, observability, evaluation, and operations. | You need to build a trustworthy company knowledge base that both people and AI agents can use. |
 
 ## How they were written
 
